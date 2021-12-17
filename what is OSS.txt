@@ -1,0 +1,67 @@
+Welcome to "What is Open Source Software (OSS)"
+After watching this video, you will:
+Define Open Source Software (OSS);
+Understand the foundations of OSS;
+Understand basic terminology;
+Learn how Open Source Software differs from closed software;
+Understand the Open Source Way.
+How do you define Open Source Software?
+Open source software is code that is published publicly.
+Open source software is collaborative, relying on community production and peer review to
+use, change, and share source code with each other.
+Developers share insights, ideas, and code to create more innovative software solutions
+both collectively and individually.
+There are four key elements of Open Source Software:
+Use: Anyone can run the software for any purpose;
+View: Anyone can see the source code and understand how the software works;
+Modify: Enhancements, bug fixes, and solutions can come from anywhere – even outside your
+organization;
+Share: Uniting contributions around a common shared purpose.
+There are some common misconceptions about open source.
+Open source does not always mean free of cost. While there may not be licensing costs, you
+might have to consider other costs like support, training and maintenance.
+Getting access to the source code of an application does not mean it becomes open source.
+The creators still need to grant users access to view and modify the source code.
+Open source software comes with a license that the users must adhere to.
+Each open source project might have different usage terms and conditions.
+If you are able to download software without paying for it, it does not mean it is open source.
+Let's look at some basic terminology used in the open source world that you will see
+again in this course.
+A community is anybody related to the open source project. This is a group of people
+who get some benefit from the project.
+A contributor is somebody who contributes back to the project.
+A committer is somebody who reviews and approves changes to the project source code. A committer
+generally has write access to the source code repository.
+All projects should have a code of conduct to protect the community from unhealthy and
+destructive behavior.
+Contribution guidelines lay down some rules around how the community can participate in
+the open source project.
+Upstream is the source software that others might use or modify.
+Downstream is the programmer's working stream. When programmers modify code or create new
+innovations, they can submit these changes to upstream.
+The open source way is a set of principles supported by RedHat that relies on:
+Transparency, ensuring everybody in the community has access to information and can build on
+each other's ideas.
+Collaboration, leading to better work and ideas together.
+Delivering early, ensuring an iterative approach with the freedom to experiment.
+Inclusion, enabling anybody in the community to provide ideas and speak up.
+And finally, communities, formed around an aligned purpose with shared goals.
+The following features of Closed Source Software make it different from Open Source Software:
+Closed source software (CSS) is proprietary software that is not distributed to the public.
+The software is encrypted, so only the original authors who created the code exclusively have
+rights to legally copy, modify, update, and edit the source code.
+Closed software imposes restrictions on what the end user can do with the application.
+The source code is behind a paywall or otherwise protected preventing users from modifying,
+sharing, copying, or republishing the source code.
+In addition to open and closed source, FOSS (Free/Open Source Software) allows users access
+to software from a more philosophical perspective.
+There are a wide variety of free software licenses that can be used, modified, and sold
+commercially including: GPL, LGPL, and BSD licenses.
+Some of the most popular open source solutions range from the Linux operating system to VLC
+for playing audio and video files, GIMP for image processing, Firefox for browsing the
+World Wide Web and FileZilla for file transfers.
+In this video, you learned that:
+Open Source Software is code that community can modify and share.
+Open Source community consists of committers, contributors and others who abide by a code
+of conduct and contribution guidelines.
+Open Source Way principles provide a way for collaboration and open contribution.
